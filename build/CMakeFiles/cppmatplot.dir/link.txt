@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/cppmatplot.dir/main.cpp.o -o cppmatplot  -Wl,-rpath,/opt/miniconda3/lib /opt/miniconda3/lib/libpython3.9.so 
