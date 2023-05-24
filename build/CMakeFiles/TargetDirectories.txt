@@ -1,3 +1,0 @@
-/home/frank/mywork/cppmatplot/build/CMakeFiles/cppmatplot.dir
-/home/frank/mywork/cppmatplot/build/CMakeFiles/edit_cache.dir
-/home/frank/mywork/cppmatplot/build/CMakeFiles/rebuild_cache.dir
