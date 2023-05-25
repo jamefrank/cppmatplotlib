@@ -8,6 +8,8 @@ if(ENABLE_VISUALIZATION)
 endif()
 
 if(ENABLE_VISUALIZATION)
+    set(Python3_FIND_STRATEGY LOCATION)
+    set(Python3_ROOT_DIR "/home/frank/miniconda3/envs/cppmatplot")
     find_package(Python3 COMPONENTS Development NumPy)
     include_directories(${Python3_INCLUDE_DIRS} ${Python3_NumPy_INCLUDE_DIRS})
 endif()
